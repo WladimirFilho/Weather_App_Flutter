@@ -11,4 +11,4 @@ This is a WeatherApp made with the purpose of studying new packages and function
 - HTTP fetching API
 - Weather API [https://openweathermap.org/]
 
-## Credits to The YouTube Channel Mitch Koko.
+### Credits to The YouTube Channel Mitch Koko.
